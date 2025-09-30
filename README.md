@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Ahmed El-Sayed Saqr - Animated Title">
 </p>
-0
+
+---
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div>
@@ -15,7 +17,7 @@
 ### 👨‍🎓 About Me
 I am **Ahmed El-Sayed Saqr** 😃  
 🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
-🔬 **AI Researcher | Python Data Analyst - Scientist | Optimization Algorithms Enthusiast**.  
+🔬 **AI & Machine Learning Researcher | Python Data Analyst - Scientist | Optimization Algorithms Enthusiast**.  
 
 I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
 Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.  

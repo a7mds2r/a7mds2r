@@ -16,7 +16,7 @@
     }
     a { color: #58a6ff; text-decoration: none; transition: transform 0.3s ease, box-shadow 0.3s ease; }
     a:hover { color: #1f6feb; transform: scale(1.05); box-shadow: 0 4px 15px rgba(88,166,255,0.3); }
-    h2 { font-size: 1.6em; }
+    h1, h2 { text-align: center; }
     .card {
       background-color: #161b22;
       border-radius: 10px;
@@ -54,6 +54,11 @@
   </style>
 </head>
 <body>
+
+  <h1 align="center">Hey 👋 What's Up?</h1>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  </div>
 
   <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -115,3 +120,4 @@
 
 </body>
 </html>
+|

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="860" height="140" viewBox="0 0 860 140" role="img" aria-label="Ahmed El-Sayed Saqr - animated title">
+  <!-- Background -->
+  <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+
+  <!-- Static name -->
+  <text x="36" y="46" font-family="Inter, Arial, sans-serif" font-size="24" fill="#e6edf3" font-weight="600">
+    Ahmed El-Sayed Saqr
+  </text>
+
+  <!-- Masks -->
+  <defs>
+    <!-- Mask for first title -->
+    <mask id="m1">
+      <rect width="100%" height="100%" fill="black"/>
+      <rect x="36" y="64" width="0" height="36" fill="white">
+        <animate attributeName="width"
+                 values="0;200;200;0"
+                 keyTimes="0;0.25;0.45;0.5"
+                 dur="10s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </mask>
+
+    <!-- Mask for second title -->
+    <mask id="m2">
+      <rect width="100%" height="100%" fill="black"/>
+      <rect x="36" y="64" width="0" height="36" fill="white">
+        <animate attributeName="width"
+                 values="0;0;560;560;0"
+                 keyTimes="0;0.5;0.7;0.9;1"
+                 dur="10s"
+                 repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- First title -->
+  <g mask="url(#m1)">
+    <text x="36" y="88" font-family="Inter, Arial, sans-serif" font-size="20" fill="#a371f7" font-weight="600">
+      AI Researchers
+    </text>
+  </g>
+
+  <!-- Second title -->
+  <g mask="url(#m2)">
+    <text x="36" y="88" font-family="Inter, Arial, sans-serif" font-size="20" fill="#a371f7" font-weight="600">
+      Python Data Analyst - Scientist
+    </text>
+  </g>
+
+  <!-- Cursor -->
+  <rect x="36" y="66" width="3" height="22" rx="1" fill="#a371f7">
+    <animate attributeName="x"
+             values="
+               36;236;236;36;
+               36;596;596;36"
+             keyTimes="0;0.25;0.45;0.5;
+                       0.5;0.7;0.9;1"
+             dur="10s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <title>Ahmed El-Sayed Saqr — animated title</title>
+  <desc>Typewriter effect switching between "AI Researchers" and "Python Data Analyst - Scientist" in purple color.</desc>
+</svg>

@@ -1,5 +1,9 @@
 # Hello 𝐭𝐡𝐞𝐫𝐞 👋 What's Up?
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Ahmed El-Sayed Saqr - Animated Title">
+</p>
+0
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 </div>

@@ -17,8 +17,7 @@
 ### 👨‍🎓 About Me
 I am **Ahmed El-Sayed Saqr** 😃  
 🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
-🔬 **AI & Machine Learning Researcher | Python Data Analyst - Scientist | Optimization Algorithms Enthusiast**.  
-
+🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights
 I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
 Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.  
 
@@ -31,19 +30,43 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 
 ---
 
-### ⚡ Technologies & Skills
-- **Python for Data Science & Analytics** (NumPy, Pandas, Scikit-learn, Matplotlib).  
-- **Machine Learning & Optimization Algorithms** (GGO, PSO, GA, etc.).  
-- **Time Series Forecasting & Predictive Modeling**.  
-- **Data Visualization & Scientific Writing**.  
-- **AI for Sustainable Tech & Healthcare Applications**.  
+## ⚡ Technologies & Skills
+- **Python for Data Science & Analytics**: NumPy, Pandas, Scikit-learn, Matplotlib  
+- **Machine Learning & Optimization Algorithms**: Grey Goose Optimization (GGO)  
+- **Time Series Forecasting & Predictive Modeling**  
+- **Data Visualization, Reporting & Scientific Writing**  
+- **AI Applications in Sustainable Technologies & Healthcare**  
+
+---
+
+## 🛠️ Tools & Software
+- Jupyter Notebook  
+- Microsoft Excel (Charts, PivotTables)  
+- Git & GitHub  
+  
+---
+
+## 🔬 Laboratory & Experimental Skills
+- Laboratory Equipment Handling  
+- Technical Experimentation  
+- Report Writing  
+- Assisting in Practical Engineering Sessions  
+
+---
+
+## 🤝 Soft Skills
+- Team Collaboration  
+- Scientific Communication  
+- Problem Solving  
+- Academic Presentation Skills  
+- Time Management  
 
 ---
 
 ### 🌍 Hello World!! 🤔
-- 💬 Ask me to conduct research's on AI, ML, or Optimization Algorithms.  
+  - 💬 Ask me about AI, ML, or Optimization Algorithms, Data Analyst.
 - 📫 Reach me at: [Email](mailto:a7mdsqr@std.mans.edu.eg).  
-- 🔗 Profiles: [LinkedIn](https://www.linkedin.com/in/a7mdsqr/) | [Google Scholar](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Ahmed-Saqr-3).  
+- 🔗 Profiles: [LinkedIn](https://www.linkedin.com/in/a7mdsqr/).
 - ⚡ Fun fact: **Optimization is everywhere — even in how geese fly! 🦆**  
 
 ---

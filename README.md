@@ -109,7 +109,7 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 ---
 
 ### 🌍 Hello World!! 🤔
-  - 💬 Ask me about AI, ML, or Optimization Algorithms, Data Analyst.
+  - 💬 Ask me about: Data Analyst.
 - 📫 Reach me at: [Email](mailto:a7mdsqr@std.mans.edu.eg).  
 - 🔗 Profiles: [LinkedIn](https://www.linkedin.com/in/a7mdsqr/).
 - ⚡ Fun fact: **Optimization is everywhere — even in how geese fly! 🦆**  

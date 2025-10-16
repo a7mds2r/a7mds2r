@@ -83,7 +83,6 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 ## 🛠️ Tools & Software
 - Jupyter Notebook  
 - Microsoft Excel (Charts, PivotTables)  
-- Git & GitHub  
   
 ---
 

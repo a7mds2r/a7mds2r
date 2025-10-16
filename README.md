@@ -6,9 +6,51 @@
 
 ---
 
+### 🐍 Core Languages & Tools
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py,vscode,github,git,jupyter" height="60" alt="core tools" />
 </div>
+
+---
+
+### 📊 Data Analysis & Processing
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  <img src="https://img.shields.io/badge/OpenPyXL-1f6f8b?style=for-the-badge&logo=python&logoColor=white" alt="openpyxl" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="sqlalchemy" />
+</div>
+
+---
+
+### 📈 Data Visualization
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" />
+  <img src="https://img.shields.io/badge/Altair-E9445B?style=for-the-badge&logo=python&logoColor=white" alt="altair" />
+</div>
+
+---
+
+### 🗃️ Databases & SQL
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="sqlalchemy" />
+</div>
+
+---
+<div align="center">
+  <h3>📊 From Data Cleaning → Analysis → Visualization → Reporting</h3>
+</div>
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 

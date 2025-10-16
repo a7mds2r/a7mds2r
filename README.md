@@ -4,6 +4,12 @@
   <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Ahmed El-Sayed Saqr - Animated Title">
 </p>
 
+<div align="center">
+  <p>
+    <b>Data Cleaning • Visualization • SQL • Dashboards • Reporting</b>
+  </p>
+</div>
+
 
 ### 🐍 Core Languages & Tools
 
@@ -47,10 +53,9 @@
 
 ---
 <div align="center">
-  <h3>📊 From Data Cleaning → Analysis → Visualization → Reporting</h3>
+  <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
+  <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>
 </div>
-
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ---

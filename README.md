@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Ahmed El-Sayed Saqr - Animated Title">
 </p>
 
----
 
 ### 🐍 Core Languages & Tools
 

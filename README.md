@@ -108,12 +108,13 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 
 ---
 
-### 🌍 Hello World!! 🤔
-  - 💬 Ask me about: Data Analyst.
-- 📫 Reach me at: [Email](mailto:a7mdsqr@std.mans.edu.eg).  
-- 🔗 Profiles: [LinkedIn](https://www.linkedin.com/in/a7mdsqr/).
-- ⚡ Fun fact: **Optimization is everywhere — even in how geese fly! 🦆**  
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/a7mdsqr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a7mdsqr/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/a7mdsqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/a7mdsqr" height="30" width="40" /></a>
+</p>
+  - 💬 Ask me about: Data Analyst.
 ---
 
 <div align="center">

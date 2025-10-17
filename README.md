@@ -11,45 +11,28 @@
 </div>
 
 
-### 🐍 Core Languages & Tools
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,vscode,github,git,jupyter" height="60" alt="core tools" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  </a>
 </div>
-
----
-
-### 📊 Data Analysis & Processing
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-  <img src="https://img.shields.io/badge/OpenPyXL-1f6f8b?style=for-the-badge&logo=python&logoColor=white" alt="openpyxl" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="sqlalchemy" />
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80" height="60"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="90" height="60"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="90" height="60"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="90" height="60"/>
+  </a>
 </div>
 
----
-
-### 📈 Data Visualization
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" />
-  <img src="https://img.shields.io/badge/Altair-E9445B?style=for-the-badge&logo=python&logoColor=white" alt="altair" />
-</div>
-
----
-
-### 🗃️ Databases & SQL
-
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" alt="sqlalchemy" />
-</div>
 
 ---
 <div align="center">
@@ -72,7 +55,6 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 ### 👯 Communities & Contributions
 - Contributor to academic research in AI, sustainability, and healthcare.  
 - Laboratory Engineer @ DHIET 👨‍🏫 — mentoring students & supporting projects.  
-- Active on ResearchGate & Google Scholar with multiple publications.  
 
 ---
 

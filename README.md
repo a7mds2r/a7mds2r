@@ -17,11 +17,10 @@
 ---
 
 ## ⚙️ Language & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
-</div>
 
-<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
+</div>
 
 <!-- مكتبات تحليل البيانات -->
 <div align="center">

@@ -14,14 +14,11 @@
 ## ⚙️ Language & Tools:
 
 <div align="center">
+<!-- الأدوات -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
+</div>
 
-  <!-- الأدوات -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,jupyter" height="60" alt="core tools" />
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    </a>
-  </p>
 
   <!-- مكتبات تحليل البيانات -->
   <p>

@@ -14,15 +14,12 @@
 ---
 
 ## ⚙️ Language & Tools:
-
-<div align"center">
 <!-- الأدوات -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
 </div>
-
-
-  <!-- مكتبات تحليل البيانات -->
+<!-- مكتبات تحليل البيانات -->
+<div align="center">
   <p>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50"/>
@@ -40,7 +37,6 @@
       <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" height="50"/>
     </a>
   </p>
-
 </div>
 
 ---
@@ -104,14 +100,37 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/a7mdsqr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a7mdsqr/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/a7mdsqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/a7mdsqr" height="30" width="40" /></a>
 </p>
   - 💬 Ask me about: Data Analyst.
+  
 ---
 
 <div align="center">
 
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&hide=["issues"]&show_icons=true)](https://github.com/ahmedelsayedsaqr)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact)](https://github.com/ahmedelsayedsaqr)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr&" alt="ahmedelsayedsaqr" /></p>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

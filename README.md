@@ -10,31 +10,42 @@
   </p>
 </div>
 
+---
+## ⚙️ الأدوات والمكتبات الأساسية
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,vscode,github,git,jupyter" height="60" alt="core tools" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="80" height="60"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" width="90" height="60"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="90" height="60"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="90" height="60"/>
-  </a>
-</div>
+  <!-- الأدوات -->
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,vscode,github,git,jupyter" height="60" alt="core tools" />
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+    </a>
+  </p>
 
+  <!-- مكتبات تحليل البيانات -->
+  <p>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+      <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" height="50"/>
+    </a>
+  </p>
+
+</div>
 
 ---
+
 <div align="center">
   <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
   <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>

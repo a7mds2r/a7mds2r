@@ -9,15 +9,20 @@
     <b>Data Cleaning • Visualization • SQL • Dashboards • Reporting</b>
   </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## ⚙️ Language & Tools:
-<!-- الأدوات -->
+## ⚙️ Language & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
 </div>
+
+<br>
+
 <!-- مكتبات تحليل البيانات -->
 <div align="center">
   <p>
@@ -45,16 +50,18 @@
   <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
   <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>
 </div>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 
 ---
 
 ### 👨‍🎓 About Me
 I am **Ahmed El-Sayed Saqr** 😃  
 🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
-🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights
+🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights.  
+
 I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
-Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.  
+Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.
 
 ---
 
@@ -76,7 +83,7 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 ## 🛠️ Tools & Software
 - Jupyter Notebook  
 - Microsoft Excel (Charts, PivotTables)  
-  
+
 ---
 
 ## 🔬 Laboratory & Experimental Skills
@@ -96,41 +103,21 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 
 ---
 
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/a7mdsqr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a7mdsqr/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
-  - 💬 Ask me about: Data Analyst.
-  
+
+💬 **Ask me about:** Data Analysis | AI Research | Optimization Algorithms  
+
 ---
 
 <div align="center">
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&hide=["issues"]&show_icons=true)](https://github.com/ahmedelsayedsaqr)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact)](https://github.com/ahmedelsayedsaqr)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr&" alt="ahmedelsayedsaqr" /></p>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr&theme=default)
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

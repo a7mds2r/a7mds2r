@@ -9,11 +9,13 @@
     <b>Data Cleaning • Visualization • SQL • Dashboards • Reporting</b>
   </p>
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techmakers96&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 ---
+
 ## ⚙️ Language & Tools:
 
-<div align="center">
+<div align"center">
 <!-- الأدوات -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />

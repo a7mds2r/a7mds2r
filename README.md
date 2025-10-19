@@ -14,10 +14,26 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+### 👨‍🎓 About Me
+I am **Ahmed El-Sayed Saqr** 😃  
+🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
+🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights.  
+
+I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
+Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
+
 ---
 
-## ⚙️ Language & Tools
+### 👯 Communities & Contributions
+- Contributor to academic research in AI, sustainability, and healthcare.  
+- Laboratory Engineer @ DHIET 👨‍🏫 — mentoring students & supporting projects.  
 
+---
+
+
+### ⚙️ Language & Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
 </div>
@@ -43,65 +59,19 @@
   </p>
 </div>
 
----
 
 <div align="center">
   <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
   <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
-
 ---
 
-### 👨‍🎓 About Me
-I am **Ahmed El-Sayed Saqr** 😃  
-🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
-🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights.  
-
-I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
-Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.
-
----
-
-### 👯 Communities & Contributions
-- Contributor to academic research in AI, sustainability, and healthcare.  
-- Laboratory Engineer @ DHIET 👨‍🏫 — mentoring students & supporting projects.  
-
----
-
-## ⚡ Technologies & Skills
-- **Python for Data Science & Analytics**: NumPy, Pandas, Scikit-learn, Matplotlib  
-- **Machine Learning & Optimization Algorithms**: Grey Goose Optimization (GGO)  
-- **Time Series Forecasting & Predictive Modeling**  
-- **Data Visualization, Reporting & Scientific Writing**  
-- **AI Applications in Sustainable Technologies & Healthcare**  
-
----
-
-## 🛠️ Tools & Software
+### 🛠️ Tools & Software
 - Jupyter Notebook  
 - Microsoft Excel (Charts, PivotTables)  
 
 ---
-
-## 🔬 Laboratory & Experimental Skills
-- Laboratory Equipment Handling  
-- Technical Experimentation  
-- Report Writing  
-- Assisting in Practical Engineering Sessions  
-
----
-
-## 🤝 Soft Skills
-- Team Collaboration  
-- Scientific Communication  
-- Problem Solving  
-- Academic Presentation Skills  
-- Time Management  
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">

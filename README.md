@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 👨‍🎓 About Me
+## 👨‍🎓 About Me
+
 I am **Ahmed El-Sayed Saqr** 😃  
 🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
 🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights.  
-
 I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
 Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.
 
@@ -26,19 +26,20 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 
 ---
 
-### 👯 Communities & Contributions
+## 👯 Communities & Contributions
+
 - Contributor to academic research in AI, sustainability, and healthcare.  
 - Laboratory Engineer @ DHIET 👨‍🏫 — mentoring students & supporting projects.  
 
 ---
 
+## ⚙️ Language & Tools
 
-### ⚙️ Language & Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
 </div>
 
-<!-- مكتبات تحليل البيانات -->
+<!-- Data Analysis Libraries -->
 <div align="center">
   <p>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
@@ -59,7 +60,6 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
   </p>
 </div>
 
-
 <div align="center">
   <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
   <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>
@@ -67,12 +67,15 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 
 ---
 
-### 🛠️ Tools & Software
+## 🛠️ Tools & Software
+
 - Jupyter Notebook  
 - Microsoft Excel (Charts, PivotTables)  
 
 ---
-### 🌐 Connect with Me
+
+## 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -86,7 +89,9 @@ Currently, my research focuses on **CO₂ emissions forecasting** using **time s
 <div align="center">
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&show_icons=true&theme=default)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact&theme=default)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr&theme=default)
 
 </div>

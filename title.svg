@@ -26,7 +26,7 @@
   <!-- Title -->
   <g mask="url(#m1)">
     <text x="50%" y="90" font-family="Inter, Arial, sans-serif" font-size="22" fill="#a371f7" font-weight="700" text-anchor="middle">
-      Data Analyst
+      Data Scientist
     </text>
   </g>
 
@@ -43,6 +43,6 @@
              repeatCount="indefinite"/>
   </rect>
 
-  <title>Ahmed El-Sayed Saqr — Data Analyst</title>
-  <desc>Typewriter effect showing only 'Data Analyst' centered with light background.</desc>
+  <title>Ahmed El-Sayed Saqr — Data Scientist</title>
+  <desc>Typewriter effect showing only 'DData Scientist' centered with light background.</desc>
 </svg>

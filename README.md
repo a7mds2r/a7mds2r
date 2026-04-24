@@ -1,97 +1,106 @@
 # Hello 𝐭𝐡𝐞𝐫𝐞 👋 What's Up?
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Ahmed El-Sayed Saqr - Animated Title">
+  <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Animated Title">
 </p>
 
-<div align="center">
-  <p>
-    <b>Data Cleaning • Visualization • SQL • Dashboards • Reporting</b>
-  </p>
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <b>Turning messy data into reliable decisions</b><br>
+  Data Cleaning • Machine Learning • SQL • Forecasting • Dashboards
 </p>
 
-## 👨‍🎓 About Me
-
-I am **Ahmed El-Sayed Saqr** 😃  
-🎓 MSc Candidate in **Computer & Control Systems Engineering** at Mansoura University.  
-🔬 AI & ML Researcher | Python Data Analyst & Scientist | Optimization & Data-Driven Insights.  
-I explore the intersections of **Artificial Intelligence, Machine Learning, Optimization Algorithms, and Sustainable Tech 🌱**.  
-Currently, my research focuses on **CO₂ emissions forecasting** using **time series analysis + metaheuristic optimization**.
-
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 👯 Communities & Contributions
+# 👨‍🎓 About Me
 
-- Contributor to academic research in AI, sustainability, and healthcare.  
-- Laboratory Engineer @ DHIET 👨‍🏫 — mentoring students & supporting projects.  
+🎓 **MSc Candidate — Computer & Control Systems Engineering**  
+Faculty of Engineering — Mansoura University  
 
----
+🔬 **Research Focus**
+- Time-Series Forecasting  
+- Metaheuristic Optimization  
+- Machine Learning for Sustainability 🌱  
+- CO₂ Emissions Forecasting & Energy Analytics  
 
-## ⚙️ Language & Tools
+💡 I specialize in transforming raw data into **actionable insights** using statistical modeling, machine learning, and optimization algorithms.
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,excel" height="60" alt="core tools" />
-</div>
-
-<!-- Data Analysis Libraries -->
-<div align="center">
-  <p>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="50"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-      <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" height="50"/>
-    </a>
-  </p>
-</div>
-
-<div align="center">
-  <h3>📊 Data Analysis Pipeline: SQL → Python → Visualization → Dashboard</h3>
-  <p>Using SQL for data extraction and Python for deep analysis and visualization.</p>
-</div>
+📌 Current mission: Building data-driven solutions for **climate and energy problems**.
 
 ---
 
-## 🛠️ Tools & Software
+# 🧠 Research Interests
 
-- Jupyter Notebook  
-- Microsoft Excel (Charts, PivotTables)  
+- Artificial Intelligence  
+- Machine Learning & Deep Learning  
+- Optimization Algorithms (GA, PSO, Hybrid Models)  
+- Time Series Forecasting  
+- Sustainable & Green AI  
+
 
 ---
 
-## 🌐 Connect with Me
+# 🛠 Tech Stack
+
+### 👨‍💻 Core Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter" height="60"/>
+</p>
+
+### 📊 Data Science Libraries
+<p align="center">
+  <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_static/logo2.svg" height="50"/></a>
+</p>
+
+### 📈 Analytics Workflow
+<p align="center">
+  SQL → Data Cleaning → EDA → Machine Learning → Visualization → Dashboard → Insights
+</p>            
+
+
+---
+
+# 🚀 Featured Skills
+
+✔ Data Cleaning & Preprocessing  
+✔ Exploratory Data Analysis (EDA)  
+✔ Machine Learning Modeling  
+✔ Time Series Forecasting  
+✔ SQL Analytics & Reporting  
+✔ Dashboard & Visualization  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
 </p>
 
-💬 **Ask me about:** Data Analysis | AI Research | Optimization Algorithms  
+💬 Ask me about **Data Science • AI Research • Optimization Algorithms**
 
 ---
 
-<div align="center">
+# 📊 GitHub Analytics
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&show_icons=true&theme=default)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&show_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact" height="165">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact&theme=default)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr&theme=default)
-
-</div>

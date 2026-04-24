@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedelsayedsaqr/ahmedelsayedsaqr/main/title.svg" alt="Animated Title">
+  <img src="https://raw.githubusercontent.com/a7mds2r/a7mds2r/main/title.svg" alt="Animated Title">
 </p>
 
 <p align="center">
@@ -97,8 +97,11 @@ Faculty of Engineering — Mansoura University
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&how_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact" height="165">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact" height="165">
+</p>      
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r">

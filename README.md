@@ -89,18 +89,18 @@ Faculty of Engineering — Mansoura University
   </a>
 </p>
 
-💬 Ask me about **Data Science • AI Research • Optimization Algorithms**
+💬 Ask me about **Data Science**
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsayedsaqr&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelsayedsaqr&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&how_icons=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsayedsaqr">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r">
 </p>
 

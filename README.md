@@ -46,11 +46,33 @@ Faculty of Engineering — Mansoura University
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Core Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter" height="60"/>
-</p>
+### 👨‍💻 Core Tools### 👨‍💻 Core Tools
 
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jupyter" height="60"/>
+  </a>
+</p>
 ### 📊 Data Science Libraries
 <p align="center">
   <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50"/></a>

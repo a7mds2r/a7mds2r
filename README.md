@@ -46,7 +46,7 @@ Faculty of Engineering — Mansoura University
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Core Tools### 👨‍💻 Core Tools
+### 👨‍💻 Core Tools
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -73,6 +73,7 @@ Faculty of Engineering — Mansoura University
     <img src="https://skillicons.dev/icons?i=jupyter" height="60"/>
   </a>
 </p>
+
 ### 📊 Data Science Libraries
 <p align="center">
   <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50"/></a>

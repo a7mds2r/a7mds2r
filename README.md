@@ -2,7 +2,9 @@
 
 <h1 align="center">Ahmad El-Sayed Saqr</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;ML+Engineer;Python+Developer;Forecasting+%26+Analytics" />
+### Data Scientist | Machine Learning Engineer | Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Forecasting+%26+Analytics" />
 
 </div>
 ---

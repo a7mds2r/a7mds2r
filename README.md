@@ -1,7 +1,9 @@
 # Hello there 👋 What's Up?
 
+<h1 align="center">Ahmad El-Sayed Saqr</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ahmad+El-Sayed+Saqr;Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Time-Series+Forecasting+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-1k+-blue" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile_Views-1k+-blue?style=flat" alt="Profile Views">
 </p>
 
 ---
@@ -21,37 +23,44 @@
 *   **M.Sc. in Intelligent Systems Engineering** from Mansoura University, where my research focused on hybrid deep learning architectures for accurate CO₂ emissions forecasting.
 
 ### 🔬 Research Focus & Interests
-*   **Time-Series Forecasting & Advanced Forecasting Systems**
-*   **Energy AI & Sustainability Intelligence**
-*   **Machine Learning & Deep Learning**
-*   **Optimization Algorithms (GA, PSO, Hybrid Models)**
-*   **Industrial AI Applications**
+*   Time-Series Forecasting & Advanced Forecasting Systems
+*   Energy AI & Sustainability Intelligence
+*   Machine Learning & Deep Learning
+*   Optimization Algorithms (GA, PSO, Hybrid Models)
+*   Industrial AI Applications
 
 > 💡 *I specialize in transforming raw data into actionable insights using statistical modeling, machine learning, and optimization algorithms. Current mission: Building data-driven solutions for climate and energy problems.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 🗃️ Core Tools
+### 🗃️ Core Tools (Clickable)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 </p>
 
-### 📊 Data Science Libraries
+### 📊 Data Science Libraries (Clickable)
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" /></a>
+  <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" alt="Matplotlib" /></a>
 </p>
 
-### 📈 Analytics Workflow
-`SQL` ➡️ `Data Cleaning` ➡️ `EDA` ➡️ `Machine Learning` ➡️ `Visualization` ➡️ `Dashboard Insights`
+### 📈 Analytics & Modern Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/1._SQL-📊-blue?style=flat-square" /> ➡️ 
+  <img src="https://img.shields.io/badge/2._Data_Cleaning-🧹-orange?style=flat-square" /> ➡️ 
+  <img src="https://img.shields.io/badge/3._EDA-🔍-green?style=flat-square" /> ➡️ 
+  <img src="https://img.shields.io/badge/4._Machine_Learning-🤖-purple?style=flat-square" /> ➡️ 
+  <img src="https://img.shields.io/badge/5._Visualization-📉-red?style=flat-square" /> ➡️ 
+  <img src="https://img.shields.io/badge/6._Dashboard_Insights-💡-yellow?style=flat-square" />
+</p>
 
 ---
 
@@ -63,6 +72,14 @@
 *   ✔️ Time-Series Forecasting
 *   ✔️ SQL Analytics & Reporting
 *   ✔️ Dashboard & Visualization
+
+---
+
+## 📊 My Core Domain & Impact
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Predictive Analytics for Sustainable Energy Systems" style="border-radius: 8px;" />
+</p>
 
 ---
 
@@ -87,6 +104,6 @@
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mdsqr&show_icons=true&theme=dark" alt="Ahmad's GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdsqr&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark" alt="Ahmad's GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>

@@ -110,6 +110,8 @@ Faculty of Engineering — Mansoura University
   <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
   </a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201025146286)
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </p>
 
 💬 Ask me about **Data Science**

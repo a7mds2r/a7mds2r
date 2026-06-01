@@ -94,7 +94,7 @@ Data Scientist passionate about transforming raw data into actionable insights a
 ---
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
   <!-- كارت الإحصائيات الأساسية (الذي يعمل بنجاح) -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
 </p>

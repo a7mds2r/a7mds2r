@@ -1,134 +1,92 @@
-# Hello 𝐭𝐡𝐞𝐫𝐞 👋 What's Up?
-
+# Hello there 👋 What's Up?
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/a7mds2r/a7mds2r/main/title.svg" alt="Animated Title">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ahmad+El-Sayed+Saqr;Data+Scientist;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Turning messy data into reliable decisions</b><br>
+  <strong>Turning messy data into reliable decisions</strong><br>
   Data Cleaning • Machine Learning • SQL • Forecasting • Dashboards
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelsayedsaqr&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Profile_Views-1k+-blue" alt="Profile Views">
 </p>
 
 ---
 
-# 👨‍🎓 About Me
+## 👨‍💻 About Me
 
-🎓 **MSc Candidate — Computer & Control Systems Engineering**  
-Faculty of Engineering — Mansoura University  
+*   **Data Scientist & Machine Learning Engineer** specializing in time-series forecasting, energy systems, and sustainability analytics.
+*   **M.Sc. in Intelligent Systems Engineering** from Mansoura University, where my research focused on hybrid deep learning architectures for accurate CO₂ emissions forecasting.
 
-🔬 **Research Focus**
-- Time-Series Forecasting  
-- Metaheuristic Optimization  
-- Machine Learning for Sustainability 🌱  
-- CO₂ Emissions Forecasting & Energy Analytics  
+### 🔬 Research Focus & Interests
+*   **Time-Series Forecasting & Advanced Forecasting Systems**
+*   **Energy AI & Sustainability Intelligence**
+*   **Machine Learning & Deep Learning**
+*   **Optimization Algorithms (GA, PSO, Hybrid Models)**
+*   **Industrial AI Applications**
 
-💡 I specialize in transforming raw data into **actionable insights** using statistical modeling, machine learning, and optimization algorithms.
-
-📌 Current mission: Building data-driven solutions for **climate and energy problems**.
-
----
-
-# 🧠 Research Interests
-
-- Artificial Intelligence  
-- Machine Learning & Deep Learning  
-- Optimization Algorithms (GA, PSO, Hybrid Models)  
-- Time Series Forecasting  
-- Sustainable & Green AI  
-
+> 💡 *I specialize in transforming raw data into actionable insights using statistical modeling, machine learning, and optimization algorithms. Current mission: Building data-driven solutions for climate and energy problems.*
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Core Tools
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jupyter" height="60"/>
-  </a>
+### 🗃️ Core Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ### 📊 Data Science Libraries
-<p align="center">
-  <a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="50"/></a>
-  &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" height="50"/></a>
-  &nbsp;&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50"/></a>
-  &nbsp;&nbsp;
-  <a href="https://matplotlib.org/"><img src="https://matplotlib.org/stable/_static/logo2.svg" height="50"/></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib" />
 </p>
 
 ### 📈 Analytics Workflow
-<p align="center">
-  SQL → Data Cleaning → EDA → Machine Learning → Visualization → Dashboard → Insights
-</p>            
-
+`SQL` ➡️ `Data Cleaning` ➡️ `EDA` ➡️ `Machine Learning` ➡️ `Visualization` ➡️ `Dashboard Insights`
 
 ---
 
-# 🚀 Featured Skills
+## 🚀 Featured Skills
 
-✔ Data Cleaning & Preprocessing  
-✔ Exploratory Data Analysis (EDA)  
-✔ Machine Learning Modeling  
-✔ Time Series Forecasting  
-✔ SQL Analytics & Reporting  
-✔ Dashboard & Visualization  
+*   ✔️ Data Cleaning & Preprocessing
+*   ✔️ Explanatory Data Analysis (EDA)
+*   ✔️ Machine Learning Modeling
+*   ✔️ Time-Series Forecasting
+*   ✔️ SQL Analytics & Reporting
+*   ✔️ Dashboard & Visualization
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/a7mdsqr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+  <a href="https://linkedin.com/in/ahmedel-sayedsaqr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201025146286)
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <a href="https://wa.me/201025146286" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:a7mdsqr@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
 </p>
 
 💬 Ask me about **Data Science**
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&how_icons=true" height="165">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mdsqr&show_icons=true&theme=dark" alt="Ahmad's GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mdsqr&theme=dark" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact" height="165">
-</p>      
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r">
-</p>
-

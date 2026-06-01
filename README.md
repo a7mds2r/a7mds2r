@@ -3,7 +3,7 @@
 <h1 align="center">Ahmad El-Sayed Saqr</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;Machine+Learning+Engineer;Time-Series+Forecasting+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Time-Series+Forecasting+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">

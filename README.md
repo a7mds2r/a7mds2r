@@ -2,28 +2,25 @@
 
 <h1 align="center">Ahmed El-Sayed Saqr</h1>
 
-<h3 align="center">Data Scientist | Machine Learning Engineer | Python Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer;Forecasting+%26+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;ML+Engineer;Python+Developer;Forecasting+%26+Analytics" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- **Data Scientist & Machine Learning Engineer** specializing in time-series forecasting, energy systems, and sustainability analytics.
-- **M.Sc. in Intelligent Systems Engineering** from Mansoura University, where my research focused on hybrid deep learning architectures for accurate CO₂ emissions forecasting.
+Data Scientist passionate about transforming raw data into actionable insights and building intelligent systems that support decision-making.
 
-### 🔬 Research Focus & Interests
+### 🔬 Areas of Interest
 
-- ⏱️ Time-Series Forecasting & Advanced Forecasting Systems
-- ⚡ Energy AI & Sustainability Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 📊 Optimization Algorithms (GA, PSO, Hybrid Models)
-- 🏭 Industrial AI Applications
-
-> 💡 *I specialize in transforming raw data into actionable insights using statistical modeling, machine learning, and optimization algorithms. Current mission: Building data-driven solutions for climate and energy problems.*
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🐍 Python Development
+- 🗄️ SQL & Database Design
+- 📉 Data Visualization
+- 💡 Business Intelligence
 
 ---
 
@@ -36,22 +33,20 @@
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://jupyter.org"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
 </p>
 
 <h3 align="center">📚 Libraries</h3>
 
 <p align="center">
-  <a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=py" /><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
-  <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></a>
-  <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /></a>
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
-  <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 </p>
+
+> 🚧 *Currently learning: TensorFlow, PyTorch & Keras*
 
 ---
 
@@ -62,31 +57,31 @@
   <code>🧹 Cleaning</code> ➡️
   <code>🔍 EDA</code> ➡️
   <code>🤖 ML</code> ➡️
-  <code>📉 Viz</code> ➡️
+  <code>📉 Visualization</code> ➡️
   <code>💡 Insights</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Extract-blue?style=flat-square&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transform-orange?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analyze-green?style=flat-square&logo=chartline&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visualize-purple?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deploy-red?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Core Competencies
+## 🚀 Core Skills
 
-| Category | Skills |
-|----------|--------|
-| 🧹 **Data Processing** | Cleaning · Preprocessing · Feature Engineering · ETL |
-| 📊 **Analysis** | EDA · Statistical Analysis · Hypothesis Testing |
-| 🤖 **Machine Learning** | Regression · Classification · Clustering · Ensemble Methods |
-| ⏱️ **Time Series** | ARIMA/SARIMA · Prophet · LSTM · Hybrid Models |
-| 🗄️ **Databases** | SQL · PostgreSQL · MySQL · Query Optimization |
-| 📉 **Visualization** | Matplotlib · Seaborn · Plotly · Tableau · Power BI |
-| ☁️ **Tools** | Git · Docker · Jupyter · VS Code · Linux |
+- ✅ Data Cleaning & Preprocessing
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Machine Learning
+- ✅ Time Series Forecasting
+- ✅ SQL Analytics
+- ✅ Data Visualization
+- ✅ Business Intelligence
+- ✅ Statistical Analysis
+- ✅ Feature Engineering
+
+### Domains
+
+- Energy Analytics
+- Sustainability Analytics
+- Forecasting Systems
+- Data Science
+- Business Intelligence
 
 ---
 
@@ -101,7 +96,7 @@
 </p>
 
 <p align="center">
-  💬 Ask me about <strong>Data Science</strong> · <strong>Time Series Forecasting</strong> · <strong>Energy Analytics</strong> · <strong>Machine Learning</strong>
+  💬 Ask me about <strong>Data Analysis</strong> · <strong>Data Science</strong> · <strong>Time Series</strong>
 </p>
 
 ---
@@ -110,23 +105,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=radical&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakNum=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=radical&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=a7mds2r&theme=radical&no-frame=true&row=1&column=6&margin-w=10" width="90%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a7mds2r/a7mds2r/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a7mds2r/a7mds2r/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/a7mds2r/a7mds2r/output/github-snake.svg" width="100%" />
-  </picture>
 </p>
 
 <p align="center">
@@ -140,5 +123,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%" />
+  Thanks for visiting my GitHub Profile 🙏
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=80&section=footer" width="100%" />
 </p>

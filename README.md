@@ -103,13 +103,12 @@ Data Scientist passionate about transforming raw data into actionable insights a
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <!-- كارت الإحصائيات الأساسية المضمون -->
-  <img src="https://github-readme-stats.paxanddos.dev/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
-  
-  <br/>
-  
-  <!-- كارت تتابع النشاط المضمون -->
-  <img src="https://github-readme-streak-stats.paxanddos.dev/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
+  <!-- كارت الإحصائيات الأساسية - سيرفر بديل مستقر -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
+</p>
+<p align="left">
+  <!-- كارت تتابع النشاط - سيرفر بديل مستقر -->
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>
 
 

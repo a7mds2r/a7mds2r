@@ -25,15 +25,30 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<h3 align="center">🛠️ Tools & Technologies</h3>
 
-### 🗃️ Core Tools (Clickable)
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+<p align="center">
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
 </p>
 
 ### 📊 Data Science Libraries (Clickable)

@@ -77,7 +77,6 @@ Data Scientist passionate about transforming raw data into actionable insights a
 
 ### Domains
 
-- Energy Analytics
 - Sustainability Analytics
 - Forecasting Systems
 - Data Science
@@ -96,7 +95,7 @@ Data Scientist passionate about transforming raw data into actionable insights a
 </p>
 
 <p align="center">
-  💬 Ask me about <strong>Data Analysis</strong> · <strong>Data Science</strong> · <strong>Time Series</strong>
+  💬 Ask me about <strong>Data Analysis</strong> · <strong>Data Science</strong> · <strong>AI Modeling</strong>
 </p>
 
 ---

@@ -1,9 +1,10 @@
-# Hello there 👋 What's Up?
-
-<h1 align="center">Ahmed El-Sayed Saqr</h1>
-
+<h1 align="center">Hello there 👋 I'm Ahmed El-Sayed Saqr</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Python+Devolber" alt="Typing SVG" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile_Views-a7mds2r-blue?style=flat" alt="Profile Views">
+</p>
 
 ---
 
@@ -99,12 +100,10 @@ Data Scientist passionate about transforming raw data into actionable insights a
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <!-- كارت تتابع النشاط المحدث والمضمون 100% -->
   <img src="https://streak-stats.demolab.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 

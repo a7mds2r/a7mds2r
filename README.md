@@ -1,17 +1,10 @@
 # Hello there 👋 What's Up?
 
 <h1 align="center">Ahmad El-Sayed Saqr</h1>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer" alt="Typing SVG" />
-<p align="center">
-  <strong>Turning messy data into reliable decisions</strong><br>
-  Data Cleaning • Machine Learning • SQL • Forecasting • Dashboards
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-1k+-blue?style=flat" alt="Profile Views">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Scientist;ML+Engineer;Python+Developer;Forecasting+%26+Analytics" />
 
+</div>
 ---
 
 ## 👨‍💻 About Me

@@ -117,9 +117,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark" alt="Ahmed's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
+ src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---

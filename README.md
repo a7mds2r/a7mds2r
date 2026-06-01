@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer; alt="Typing SVG" />
-</p>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer" alt="Typing SVG" />
 <p align="center">
   <strong>Turning messy data into reliable decisions</strong><br>
   Data Cleaning • Machine Learning • SQL • Forecasting • Dashboards

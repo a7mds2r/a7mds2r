@@ -23,7 +23,7 @@ Data Scientist passionate about transforming raw data into actionable insights a
 
 ---
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>

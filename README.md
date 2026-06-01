@@ -102,18 +102,16 @@ Data Scientist passionate about transforming raw data into actionable insights a
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&theme=radical&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF" width="48%" />
+<p align="left">
+  <!-- كارت الإحصائيات الأساسية المضمون -->
+  <img src="https://github-readme-stats.paxanddos.dev/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
+  
+  <br/>
+  
+  <!-- كارت تتابع النشاط المضمون -->
+  <img src="https://github-readme-streak-stats.paxanddos.dev/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7mds2r&color=00C2FF&style=flat-square&label=PROFILE+VIEWS" />
-</p>
 
 ---
 

@@ -73,7 +73,7 @@
 
 <a href="https://plotly.com">
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</a>
+</a>l
 
 </p>
 

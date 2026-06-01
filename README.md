@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Python+Devolber" alt="Typing SVG" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile_Views-a7mds2r-blue?style=flat" alt="Profile Views">
+  <img src="https://profile-counter.glitch.me/a7mds2r/count.svg" alt="Ahmad's Profile Views" />
 </p>
 
 ---

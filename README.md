@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋 I'm Ahmed El-Sayed Saqr</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Python+Devolber" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Python+Devolper" alt="Typing SVG" />
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/a7mds2r/count.svg" alt="Ahmad's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=a7mds2r&color=00C2FF&style=flat-square&label=👁️+PROFILE+VIEWS" />
 </p>
 
 ---

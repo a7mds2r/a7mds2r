@@ -51,12 +51,30 @@
 
 </p>
 
-### 📊 Data Science Libraries (Clickable)
-<p align="left">
-  <a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /></a>
-  <a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /></a>
-  <a href="https://scikit-learn.org" target="_blank"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" /></a>
-  <a href="https://matplotlib.org" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" alt="Matplotlib" /></a>
+<h3 align="center">📚 Libraries</h3>
+
+<p align="center">
+
+<a href="https://numpy.org">
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+</a>
+
+<a href="https://pandas.pydata.org">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</a>
+
+<a href="https://scikit-learn.org">
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</a>
+
+<a href="https://matplotlib.org">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</a>
+
+<a href="https://plotly.com">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</a>
+
 </p>
 
 ### 📈 Analytics & Modern Workflow

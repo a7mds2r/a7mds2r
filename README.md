@@ -51,8 +51,6 @@ Data Scientist passionate about transforming raw data into actionable insights a
 
 ### 📈 Data Science Workflow
 
-### 📈 Data Science Workflow
-
 | 📊 01. Ingestion | 🧹 02. Preprocessing | 🔍 03. Exploration | 🤖 04. Modeling | 📉 05. Evaluation | 💡 06. Deployment |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **SQL** <br> `Data Fetching` | **Data Cleaning** <br> `Pandas / Sklearn` | **EDA** <br> `Statistical Analysis` | **Machine Learning** <br> `Time-Series / DL` | **Visualization** <br> `Matplotlib / Seaborn` | **Insights** <br> `Actionable Decisions` |

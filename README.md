@@ -34,7 +34,7 @@ Data Scientist passionate about transforming raw data into actionable insights a
   <a href="https://jupyter.org"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
 </p>
 
-### 📚 Libraries<
+### 📚 Libraries
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />

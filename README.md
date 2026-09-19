@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Ahmed El-Sayed Saqr</h1>
+<h1 align="center">Ahmed El-Sayed Saqr</h1>
 
 <p align="center">
-  <strong>Data Scientist · Machine Learning Engineer · Communication & Electronic Engineer</strong>
+  <strong>Data Scientist · ML Engineer · Sustainability Analytics</strong>
+</p>
+
+<p align="center">
+  I turn complex data into practical, measurable decisions.
 </p>
 
 <p align="center">
@@ -10,48 +14,58 @@
   <a href="mailto:a7mdsgqr@gmail.com">Email</a>
 </p>
 
-## About me
+## What I do
 
-I build practical, reproducible machine-learning solutions that turn complex data into useful decisions. My work focuses on **time-series forecasting, CO₂-emissions modeling, sustainability analytics, exploratory data analysis, and data-driven optimization**.
+I design clear, reproducible machine-learning workflows from raw data to useful outcomes.
 
-I am also interested in reliable data workflows: cleaning and validating data, engineering meaningful features, evaluating models rigorously, and communicating results clearly.
+My focus is on:
 
-- Based in **Egypt**
-- Background in **Communications and Electronics Engineering**
-- Current focus: **Data Science, Machine Learning, and sustainable AI infrastructure**
-- Research: co-author of a *Scientific Reports* paper on CO₂-emissions prediction using machine learning and Greylag Goose Optimization
+- **Time-series forecasting**
+- **CO₂-emissions modeling**
+- **Sustainability and carbon-aware analytics**
+- **Exploratory data analysis and feature engineering**
+- **Data-driven optimization and decision support**
 
-## Featured projects
+Background: **Communications and Electronics Engineering** · Based in **Egypt**
 
-| Project | What it demonstrates |
-| --- | --- |
-| [EQCAM-Opt-Energy-Quality-Carbon-Aware-Management](https://github.com/a7mds2r/EQCAM-Opt-Energy-Quality-Carbon-Aware-Management) | Multi-objective optimization for efficient, carbon-aware AI infrastructure management |
-| [Fuel-Consumption-CO2-Emissions-Prediction](https://github.com/a7mds2r/Fuel-Consumption-CO2-Emissions-Prediction) | End-to-end data cleaning, exploratory analysis, feature engineering, and emissions prediction |
-| [E-Commerce-Data-Analysis-Database-Project](https://github.com/a7mds2r/E-Commerce-Data-Analysis-Database-Project) | Data ingestion, transformation, MySQL database design, analysis, and dashboard-ready outputs |
+## Selected work
 
-## Technical toolkit
+### [EQCAM-Opt-Energy-Quality-Carbon-Aware-Management](https://github.com/a7mds2r/EQCAM-Opt-Energy-Quality-Carbon-Aware-Management)
 
-**Languages and data:** Python · SQL · Jupyter · Pandas · NumPy
+A multi-objective optimization framework for more efficient and carbon-aware AI infrastructure.
 
-**Machine learning:** Scikit-learn · time-series forecasting · feature engineering · model evaluation · neural networks
+### [Fuel-Consumption-CO2-Emissions-Prediction](https://github.com/a7mds2r/Fuel-Consumption-CO2-Emissions-Prediction)
 
-**Analytics and visualization:** Matplotlib · Seaborn · Plotly · exploratory data analysis · statistical analysis · business intelligence
+An end-to-end pipeline covering data cleaning, EDA, feature engineering, modeling, and emissions prediction.
 
-**Engineering workflow:** Git · GitHub · MySQL · reproducible notebooks · documented pipelines
+### [E-Commerce-Data-Analysis-Database-Project](https://github.com/a7mds2r/E-Commerce-Data-Analysis-Database-Project)
+
+A practical analytics workflow using data transformation, MySQL, Python, and dashboard-ready insights.
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" alt="Python, MySQL, Git, GitHub, Jupyter" />
+</p>
+
+**Data & analytics:** Python · SQL · Pandas · NumPy · Jupyter
+
+**Machine learning:** Scikit-learn · forecasting · neural networks · model evaluation
+
+**Visualization:** Matplotlib · Seaborn · Plotly · statistical analysis
 
 ## Research
 
-- [Enhancing CO₂ emissions prediction for electric vehicles using Greylag Goose Optimization and machine learning](https://doi.org/10.1038/s41598-025-99472-0) — *Scientific Reports*, 2025
-- [Google Scholar profile](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en)
+Co-author of [Enhancing CO₂ emissions prediction for electric vehicles using Greylag Goose Optimization and machine learning](https://doi.org/10.1038/s41598-025-99472-0), published in *Scientific Reports* in 2025.
 
-## What I am working toward
+[View my Google Scholar profile →](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en)
 
-I am building a portfolio of transparent, reproducible projects at the intersection of **machine learning, forecasting, sustainability, and decision support**. I value clean experiments, measurable results, and solutions that can be understood and reused by others.
+## Currently building
+
+A focused portfolio of practical projects where **machine learning meets forecasting, sustainability, and real-world decision-making**.
 
 ## Let's connect
 
-If you are working on data science, forecasting, sustainable technology, or applied machine learning, feel free to connect through [LinkedIn](https://www.linkedin.com/in/ahmedelsayedsaqr/) or [email](mailto:a7mdsgqr@gmail.com).
-
----
+Interested in applied machine learning, forecasting, or sustainable technology? [Let's connect on LinkedIn →](https://www.linkedin.com/in/ahmedelsayedsaqr/)
 
 <p align="center"><i>Turning data into decisions.</i></p>

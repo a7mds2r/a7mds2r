@@ -1,71 +1,122 @@
-<h1 align="center">Ahmed El-Sayed Saqr</h1>
+<h1 align="center">Hi, I'm Ahmed El-Sayed Saqr 👋</h1>
+
+<h3 align="center">Data Scientist · ML Engineer · Sustainability & Energy Analytics</h3>
 
 <p align="center">
-  <strong>Data Scientist · ML Engineer · Sustainability Analytics</strong>
+  I turn messy real-world data into optimization systems that cut cost, carbon, and waste.
 </p>
 
 <p align="center">
-  I turn complex data into practical, measurable decisions.
+  <a href="https://www.linkedin.com/in/ahmedelsayedsaqr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="mailto:a7mdsgqr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedelsayedsaqr/">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en">Google Scholar</a> ·
-  <a href="mailto:a7mdsgqr@gmail.com">Email</a>
+  <img src="https://komarev.com/ghpvc/?username=a7mds2r&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/a7mds2r?label=Followers&style=social" alt="followers" />
 </p>
 
-## What I do
+---
 
-I design clear, reproducible machine-learning workflows from raw data to useful outcomes.
+### 🔭 What I do
 
-My focus is on:
+I design reproducible ML pipelines that go from raw data → forecasting → **optimization** → measurable real-world outcomes — not just model accuracy on a leaderboard.
 
-- **Time-series forecasting**
-- **CO₂-emissions modeling**
-- **Sustainability and carbon-aware analytics**
-- **Exploratory data analysis and feature engineering**
-- **Data-driven optimization and decision support**
+- ⚡ **Time-series forecasting** (LSTM, classical + deep methods)
+- 🌍 **CO₂ emissions modeling** & carbon-aware analytics
+- 🔋 **Energy systems optimization** (tariff-aware, multi-objective)
+- 📊 **EDA, feature engineering, statistical validation**
+- 🧠 **Decision support under uncertainty**
 
-Background: **Communications and Electronics Engineering** · Based in **Egypt**
+🎓 Background: Communications & Electronics Engineering · 📍 Egypt
 
-## Selected work
+---
 
-### [EQCAM-Opt-Energy-Quality-Carbon-Aware-Management](https://github.com/a7mds2r/EQCAM-Opt-Energy-Quality-Carbon-Aware-Management)
+### 🚀 Featured work
 
-A multi-objective optimization framework for more efficient and carbon-aware AI infrastructure.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Fuel-Consumption-CO2-Emissions-Prediction](https://github.com/a7mds2r/Fuel-Consumption-CO2-Emissions-Prediction)
+**[EQCAM-Opt](https://github.com/a7mds2r/EQCAM-Opt-Energy-Quality-Carbon-Aware-Management)**
+Multi-objective optimization framework for carbon-aware, efficient AI infrastructure.
 
-An end-to-end pipeline covering data cleaning, EDA, feature engineering, modeling, and emissions prediction.
+</td>
+<td width="50%" valign="top">
 
-### [E-Commerce-Data-Analysis-Database-Project](https://github.com/a7mds2r/E-Commerce-Data-Analysis-Database-Project)
+**[Fuel-Consumption-CO2-Prediction](https://github.com/a7mds2r/Fuel-Consumption-CO2-Emissions-Prediction)**
+End-to-end pipeline: cleaning → EDA → feature engineering → emissions modeling.
 
-A practical analytics workflow using data transformation, MySQL, Python, and dashboard-ready insights.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Stack
+**[E-Commerce Data Analysis](https://github.com/a7mds2r/E-Commerce-Data-Analysis-Database-Project)**
+SQL + Python analytics workflow with dashboard-ready insights.
+
+</td>
+<td width="50%" valign="top">
+
+📌 *More energy-optimization & forecasting research in progress — check pinned repos.*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧪 Published research
+
+**Enhancing CO₂ Emissions Prediction for Electric Vehicles using Greylag Goose Optimization and Machine Learning**
+📖 *Scientific Reports*, 2025 — [DOI: 10.1038/s41598-025-99472-0](https://doi.org/10.1038/s41598-025-99472-0)
+
+[→ Full publication list on Google Scholar](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en)
+
+---
+
+### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" alt="Python, MySQL, Git, GitHub, Jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" alt="stack icons" />
 </p>
 
-**Data & analytics:** Python · SQL · Pandas · NumPy · Jupyter
+| Area | Tools |
+|---|---|
+| **Languages & Data** | Python · SQL · Pandas · NumPy |
+| **ML & Forecasting** | Scikit-learn · LSTM/Neural Nets · Model Evaluation |
+| **Optimization** | Multi-objective methods · Metaheuristics (e.g. GGO) |
+| **Visualization** | Matplotlib · Seaborn · Plotly |
 
-**Machine learning:** Scikit-learn · forecasting · neural networks · model evaluation
+---
 
-**Visualization:** Matplotlib · Seaborn · Plotly · statistical analysis
+### 📈 GitHub stats
 
-## Research
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=default&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&hide_border=true" alt="streak stats" height="165"/>
+</p>
 
-Co-author of [Enhancing CO₂ emissions prediction for electric vehicles using Greylag Goose Optimization and machine learning](https://doi.org/10.1038/s41598-025-99472-0), published in *Scientific Reports* in 2025.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact&hide_border=true" alt="top languages" height="165"/>
+</p>
 
-[View my Google Scholar profile →](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en)
+---
 
-## Currently building
+### 🎯 Currently building
 
-A focused portfolio of practical projects where **machine learning meets forecasting, sustainability, and real-world decision-making**.
+A focused portfolio where **machine learning meets forecasting, energy, and sustainable decision-making** — with an eye toward Q1 publications and remote/international opportunities.
 
-## Let's connect
+### 🤝 Let's connect
 
-Interested in applied machine learning, forecasting, or sustainable technology? [Let's connect on LinkedIn →](https://www.linkedin.com/in/ahmedelsayedsaqr/)
+Open to applied ML, forecasting, and sustainability-tech collaborations.
+[LinkedIn →](https://www.linkedin.com/in/ahmedelsayedsaqr/)
 
 <p align="center"><i>Turning data into decisions.</i></p>

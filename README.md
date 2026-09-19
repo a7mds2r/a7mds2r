@@ -1,122 +1,83 @@
-<h1 align="center">Hi, I'm Ahmed El-Sayed Saqr 👋</h1>
+mode: auto
+portfolio & curriculum vitae — updated 2026
+Ahmed El-Sayed Saqr
+Data scientist and optimization researcher, working where forecasting meets decision-making.
 
-<h3 align="center">Data Scientist · ML Engineer · Sustainability & Energy Analytics</h3>
+I build data science and machine learning systems end to end — from raw data and time-series forecasting to metaheuristic optimization and measurable, defensible results. My core specialty is optimization (metaheuristics such as Greylag Goose Optimization); I apply it across whatever problem is in front of me, not one fixed domain.
 
-<p align="center">
-  I turn messy real-world data into optimization systems that cut cost, carbon, and waste.
-</p>
+a7mdsgqr@gmail.com
++20 102 514 6285
+LinkedIn
+Google Scholar
+GitHub
+El Mansoura, Egypt
+01
+What I work on
+Open to a range of data science and AI work — this list is representative, not exhaustive.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedelsayedsaqr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="mailto:a7mdsgqr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Data Science
+Machine Learning
+Metaheuristic Optimization
+Time-Series Forecasting
+Data Analysis & EDA
+Scientific Research & Publication
+Applied Deep Learning (LSTM)
+Python Engineering
+02
+Experience
+Laboratory Engineer
+Oct 2022 – Present
+Delta Higher Institute for Engineering and Technology · Talkha, Egypt · On-site, full-time
+Support lab-based research and technical training in data science and machine learning; assist students with hands-on projects; contribute to technical reports and research documentation.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a7mds2r&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/a7mds2r?label=Followers&style=social" alt="followers" />
-</p>
+03
+Education
+M.Sc., Computer and Control Systems Engineering
+Mansoura University
+Thesis: “CO2 Emissions Forecasting Using Time Series Analysis and Metaheuristic Optimization for Environmental Sustainability,” using hybrid deep learning architectures (including LSTM) for emissions forecasting. Currently pursuing further research toward a Ph.D.
 
----
+04
+Publications
+Enhancing CO2 Emissions Prediction for Electric Vehicles Using Greylag Goose Optimization and Machine Learning
+Scientific Reports, vol. 15, Art. 16612 · 2025 · with M. S. Saraya & E. M. El-Kenawy · doi.org/10.1038/s41598-025-99472-0
+Used GGO to optimize an MLP predictor, benchmarked against Decision Tree, KNN, Random Forest and SVR, and against GWO, PSO, GA and WOA as optimizers; evaluated with MSE, RMSE, MAE, R², r, RRMSE, NSE and WI, with ANOVA, t-tests and one-at-a-time sensitivity analysis.
 
-### 🔭 What I do
+CO2 Emissions Forecasting Using Time Series Analysis and Metaheuristic Optimization for Environmental Sustainability
+Journal of Artificial Intelligence and Metaheuristics, vol. 7, no. 2, pp. 32–38 · 2024 · with E. M. El-Kenawy & M. S. Saraya · doi.org/10.54216/JAIM.070203
+05
+Selected projects
+EQCAM-Opt remove
+Multi-objective optimization framework for more efficient, carbon-aware AI infrastructure.
 
-I design reproducible ML pipelines that go from raw data → forecasting → **optimization** → measurable real-world outcomes — not just model accuracy on a leaderboard.
+Fuel Consumption & CO2 Emissions Prediction remove
+End-to-end pipeline: data cleaning, EDA, feature engineering, modeling, and emissions prediction.
 
-- ⚡ **Time-series forecasting** (LSTM, classical + deep methods)
-- 🌍 **CO₂ emissions modeling** & carbon-aware analytics
-- 🔋 **Energy systems optimization** (tariff-aware, multi-objective)
-- 📊 **EDA, feature engineering, statistical validation**
-- 🧠 **Decision support under uncertainty**
+E-Commerce Data Analysis remove
+Analytics workflow combining SQL, Python and dashboard-ready insights from transactional data.
 
-🎓 Background: Communications & Electronics Engineering · 📍 Egypt
+More on github.com/a7mds2r — portfolio grows as new work ships, across whatever domain the project calls for.
 
----
+edit mode — only you see this
+Add project
+06
+Toolbox
+languages & data
+Python · SQL · Pandas · NumPy
 
-### 🚀 Featured work
+modeling
+Scikit-learn · LSTM & neural nets · model evaluation
 
-<table>
-<tr>
-<td width="50%" valign="top">
+optimization
+Metaheuristics (e.g. GGO, GWO, PSO, GA, WOA)
 
-**[EQCAM-Opt](https://github.com/a7mds2r/EQCAM-Opt-Energy-Quality-Carbon-Aware-Management)**
-Multi-objective optimization framework for carbon-aware, efficient AI infrastructure.
+visualization
+Matplotlib · Seaborn · Plotly
 
-</td>
-<td width="50%" valign="top">
+tooling
+Jupyter · Git & GitHub · VS Code
 
-**[Fuel-Consumption-CO2-Prediction](https://github.com/a7mds2r/Fuel-Consumption-CO2-Emissions-Prediction)**
-End-to-end pipeline: cleaning → EDA → feature engineering → emissions modeling.
+research
+Statistical testing · sensitivity analysis · scientific writing
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[E-Commerce Data Analysis](https://github.com/a7mds2r/E-Commerce-Data-Analysis-Database-Project)**
-SQL + Python analytics workflow with dashboard-ready insights.
-
-</td>
-<td width="50%" valign="top">
-
-📌 *More energy-optimization & forecasting research in progress — check pinned repos.*
-
-</td>
-</tr>
-</table>
-
----
-
-### 🧪 Published research
-
-**Enhancing CO₂ Emissions Prediction for Electric Vehicles using Greylag Goose Optimization and Machine Learning**
-📖 *Scientific Reports*, 2025 — [DOI: 10.1038/s41598-025-99472-0](https://doi.org/10.1038/s41598-025-99472-0)
-
-[→ Full publication list on Google Scholar](https://scholar.google.com/citations?user=EFZuCkkAAAAJ&hl=en)
-
----
-
-### 🛠️ Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" alt="stack icons" />
-</p>
-
-| Area | Tools |
-|---|---|
-| **Languages & Data** | Python · SQL · Pandas · NumPy |
-| **ML & Forecasting** | Scikit-learn · LSTM/Neural Nets · Model Evaluation |
-| **Optimization** | Multi-objective methods · Metaheuristics (e.g. GGO) |
-| **Visualization** | Matplotlib · Seaborn · Plotly |
-
----
-
-### 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7mds2r&show_icons=true&theme=default&hide_border=true" alt="Ahmed's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7mds2r&hide_border=true" alt="streak stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7mds2r&layout=compact&hide_border=true" alt="top languages" height="165"/>
-</p>
-
----
-
-### 🎯 Currently building
-
-A focused portfolio where **machine learning meets forecasting, energy, and sustainable decision-making** — with an eye toward Q1 publications and remote/international opportunities.
-
-### 🤝 Let's connect
-
-Open to applied ML, forecasting, and sustainability-tech collaborations.
-[LinkedIn →](https://www.linkedin.com/in/ahmedelsayedsaqr/)
-
-<p align="center"><i>Turning data into decisions.</i></p>
+Ahmed El-Sayed Saqr · El Mansoura, Egypt
+Get in touch

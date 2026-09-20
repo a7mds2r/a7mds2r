@@ -66,28 +66,29 @@ I use GitHub to document research projects, data-driven experiments, and practic
 
 🚀 Core Skills
 
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Preprocessing
 - 🐍 Python for Data Analysis & Research
-- 📊 Data Cleaning & Exploratory Data Analysis (EDA)
 - 📈 Time-Series Analysis & Forecasting
+- 📐 Statistical Analysis
+- 🔧 Feature Engineering
+- 📉 Data Visualization & Reporting
+- 🗄️ SQL & Data Analysis
 - 🤖 Machine Learning & Predictive Modeling
 - ⚙️ Optimization & Metaheuristic Optimization
 - 🎯 Multi-Objective Optimization
-- 📉 Data Visualization
-- 🗄️ SQL & Data Analysis
-- 📐 Statistical Analysis
-- 🔧 Feature Engineering
 
-🔬 Research Domains
+🔬 Research & Application Domains
 
 - 🌱 Sustainable AI
 - 🌍 Environmental Data Science
 - 📊 Data Science & Predictive Analytics
 - 📈 Forecasting Systems
 - ⚙️ Optimization Research
+- 🌎 CO₂ Emissions Analysis & Prediction
 - 🤖 AI & Machine Learning
-
 ---
-🤝 Connect With Me
+## 🌐🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/a7mds2r">
@@ -103,22 +104,9 @@ I use GitHub to document research projects, data-driven experiments, and practic
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p><p align="center">
-  🔬 Research · 📊 Data Science · 🤖 AI & Machine Learning · ⚙️ Optimization
+  🔬 Research · 📊 Data Analysis · 📈 Data Science · 🤖 AI & Machine Learning · ⚙️ Optimization
 </p><p align="center">
-  💬 Open to research collaborations, data-driven projects, and opportunities in AI, Data Science, and Optimization.
-</p>
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/a7mds2r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/a7mds2r"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/201025146285"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:a7mdsgqr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:a7mdsgqr@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  💬 Ask me about <strong>Data Analysis</strong> · <strong>Data Science</strong> · <strong>AI Modeling</strong>
+  💬 Open to data analysis projects, research collaborations, and opportunities in Data Science, AI, and Optimization.
 </p>
 
 ---

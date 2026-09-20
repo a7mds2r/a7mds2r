@@ -109,9 +109,16 @@ def aggregate_languages(repositories: list) -> dict:
 
 def plot_stats(total_contributions: int, streak: int, languages: dict, output_path: str):
     """Render a two-panel figure: language breakdown (left) + summary numbers (right)."""
+    background = "#0d1117"  # GitHub dark background
+    panel = "#161b22"
+    foreground = "#f0f6fc"
+    muted = "#8b949e"
     fig, (ax_lang, ax_summary) = plt.subplots(
-        1, 2, figsize=(11, 4.5), gridspec_kw={"width_ratios": [1.3, 1]}
+        1, 2, figsize=(8.5, 3.2), gridspec_kw={"width_ratios": [1.25, 1]},
+        facecolor=background,
     )
+    for axis in (ax_lang, ax_summary):
+        axis.set_facecolor(panel)
 
     # --- Panel 1: language pie chart ---
     if languages:
@@ -120,26 +127,27 @@ def plot_stats(total_contributions: int, streak: int, languages: dict, output_pa
             labels=languages.keys(),
             autopct="%1.0f%%",
             startangle=90,
-            textprops={"fontsize": 9},
+            textprops={"fontsize": 8, "color": foreground},
+            wedgeprops={"linewidth": 1, "edgecolor": background},
         )
-        ax_lang.set_title("Most Used Languages (by bytes of code)")
+        ax_lang.set_title("Most Used Languages", color=foreground, fontsize=11, pad=10)
     else:
         ax_lang.text(0.5, 0.5, "No language data", ha="center", va="center")
         ax_lang.axis("off")
 
     # --- Panel 2: key numbers as text ---
     ax_summary.axis("off")
-    ax_summary.text(0.05, 0.8, "GitHub Stats", fontsize=16, fontweight="bold")
-    ax_summary.text(0.05, 0.55, f"Total contributions (1y): {total_contributions}", fontsize=12)
-    ax_summary.text(0.05, 0.35, f"Current streak: {streak} day(s)", fontsize=12)
+    ax_summary.text(0.05, 0.8, "GitHub Stats", fontsize=15, fontweight="bold", color=foreground)
+    ax_summary.text(0.05, 0.55, f"Total contributions (1y): {total_contributions}", fontsize=10, color=foreground)
+    ax_summary.text(0.05, 0.35, f"Current streak: {streak} day(s)", fontsize=10, color=foreground)
     ax_summary.text(
         0.05, 0.05,
         f"Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}",
-        fontsize=8, color="gray",
+        fontsize=7, color=muted,
     )
 
-    fig.tight_layout()
-    fig.savefig(output_path, dpi=150, bbox_inches="tight")
+    fig.tight_layout(pad=1.1)
+    fig.savefig(output_path, dpi=140, facecolor=background)
     print(f"Saved chart to {output_path}")
 
 

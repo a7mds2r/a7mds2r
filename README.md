@@ -117,7 +117,7 @@ My research interests include Sustainable AI, Environmental Data Science, CO₂ 
   <img src="https://streak-stats.demolab.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
 </p>
 
-![My GitHub Stats](./assets/github_stats.png)
+<img src="./assets/github_stats.png" alt="My GitHub Stats" width="720">
 
 ---
 

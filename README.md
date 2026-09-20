@@ -10,16 +10,23 @@
 
 ## 👨‍💻 About Me
 
-Data Scientist passionate about transforming raw data into actionable insights and building intelligent systems that support decision-making.
+Research-oriented Data Scientist Researcher with a background in Computer Engineering and Control Systems. I work primarily with Python, Data Analysis, Machine Learning, Time-Series Forecasting, and Optimization, with research interests in Sustainable AI and Environmental Data Science.
+
+I use GitHub to document research projects, data-driven experiments, and practical implementations in AI, Data Science, and Optimization. 
 
 ### 🔬 Areas of Interest
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 🐍 Python Development
-- 🗄️ SQL & Database Design
+- 📊 Data Analysis & Exploratory Data Analysis
+- 🐍 Python for Data Science & Research
+- 📈 Time-Series Forecasting
+- 🤖 Machine Learning & Predictive Modeling
+- ⚙️ Optimization & Metaheuristic Optimization
+- 🎯 Multi-Objective Optimization
+- 🌱 Sustainable AI & Environmental Data Science
+- 🌍 CO₂ Emissions & Environmental Prediction
 - 📉 Data Visualization
-- 💡 Business Intelligence
+- 🗄️ SQL & Data Management
+- 🔬 Scientific Research & Reproducible Workflows 
 
 ---
 
@@ -57,24 +64,27 @@ Data Scientist passionate about transforming raw data into actionable insights a
 
 ---
 
-## 🚀 Core Skills
+🚀 Core Skills
 
-- ✅ Data Cleaning & Preprocessing
-- ✅ Exploratory Data Analysis (EDA)
-- ✅ Machine Learning
-- ✅ Time Series Forecasting
-- ✅ SQL Analytics
-- ✅ Data Visualization
-- ✅ Business Intelligence
-- ✅ Statistical Analysis
-- ✅ Feature Engineering
+- 🐍 Python for Data Analysis & Research
+- 📊 Data Cleaning & Exploratory Data Analysis (EDA)
+- 📈 Time-Series Analysis & Forecasting
+- 🤖 Machine Learning & Predictive Modeling
+- ⚙️ Optimization & Metaheuristic Optimization
+- 🎯 Multi-Objective Optimization
+- 📉 Data Visualization
+- 🗄️ SQL & Data Analysis
+- 📐 Statistical Analysis
+- 🔧 Feature Engineering
 
-### Domains
+🔬 Research Domains
 
-- Sustainability Analytics
-- Forecasting Systems
-- Data Science
-- Business Intelligence
+- 🌱 Sustainable AI
+- 🌍 Environmental Data Science
+- 📊 Data Science & Predictive Analytics
+- 📈 Forecasting Systems
+- ⚙️ Optimization Research
+- 🤖 AI & Machine Learning
 
 ---
 

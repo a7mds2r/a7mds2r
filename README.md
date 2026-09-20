@@ -87,7 +87,26 @@ I use GitHub to document research projects, data-driven experiments, and practic
 - 🤖 AI & Machine Learning
 
 ---
+🤝 Connect With Me
 
+<p align="center">
+  <a href="https://linkedin.com/in/a7mds2r">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:a7mdsgqr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="mailto:a7mdsgqr@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201025146285">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p><p align="center">
+  🔬 Research · 📊 Data Science · 🤖 AI & Machine Learning · ⚙️ Optimization
+</p><p align="center">
+  💬 Open to research collaborations, data-driven projects, and opportunities in AI, Data Science, and Optimization.
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">

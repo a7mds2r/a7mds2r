@@ -7,27 +7,26 @@
 </p>
 
 ---
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+Research-oriented Data Scientist and AI Researcher with a background in Computer Engineering and Control Systems. I work with Python, Data Analysis, Machine Learning, Time-Series Forecasting, and Optimization, with a focus on turning data into meaningful insights and developing data-driven solutions.
 
-Research-oriented Data Scientist Researcher with a background in Computer Engineering and Control Systems. I work primarily with Python, Data Analysis, Machine Learning, Time-Series Forecasting, and Optimization, with research interests in Sustainable AI and Environmental Data Science.
+My research interests include Sustainable AI, Environmental Data Science, CO₂ emissions analysis and prediction, and optimization-based intelligent systems. I use GitHub to document data analysis projects, research experiments, predictive modeling, and practical implementations in AI, Data Science, and Optimization.
 
-I use GitHub to document research projects, data-driven experiments, and practical implementations in AI, Data Science, and Optimization. 
+🔬 Areas of Interest
 
-### 🔬 Areas of Interest
-
-- 📊 Data Analysis & Exploratory Data Analysis
-- 🐍 Python for Data Science & Research
-- 📈 Time-Series Forecasting
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Preprocessing
+- 🐍 Python for Data Analysis & Research
+- 📈 Time-Series Analysis & Forecasting
 - 🤖 Machine Learning & Predictive Modeling
 - ⚙️ Optimization & Metaheuristic Optimization
 - 🎯 Multi-Objective Optimization
 - 🌱 Sustainable AI & Environmental Data Science
-- 🌍 CO₂ Emissions & Environmental Prediction
+- 🌍 CO₂ Emissions Analysis & Prediction
 - 📉 Data Visualization
-- 🗄️ SQL & Data Management
-- 🔬 Scientific Research & Reproducible Workflows 
-
+- 🗄️ SQL & Data Analysis
+- 🔬 Scientific Research & Reproducible Workflows
 ---
 
 ### 🛠️ Tools & Technologies
@@ -64,7 +63,7 @@ I use GitHub to document research projects, data-driven experiments, and practic
 
 ---
 
-🚀 Core Skills
+## 🚀 Core Skills
 
 - 📊 Data Analysis & Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Preprocessing
@@ -78,7 +77,7 @@ I use GitHub to document research projects, data-driven experiments, and practic
 - ⚙️ Optimization & Metaheuristic Optimization
 - 🎯 Multi-Objective Optimization
 
-🔬 Research & Application Domains
+### 🔬 Research & Application Domains
 
 - 🌱 Sustainable AI
 - 🌍 Environmental Data Science
@@ -88,7 +87,7 @@ I use GitHub to document research projects, data-driven experiments, and practic
 - 🌎 CO₂ Emissions Analysis & Prediction
 - 🤖 AI & Machine Learning
 ---
-## 🌐🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/a7mds2r">

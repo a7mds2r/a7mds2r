@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Ahmed El-Sayed Saqr</h1>
 <p align="center">
-  <img https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=650&lines=Data+Scientist;Data+Analyst;AI+Researcher;Python+for+Data+Science;Optimization+Research
+  <img https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=F7F7F7&center=true&vCenter=true&width=900&height=70&lines=Data+Scientist;Data+Analyst;AI+Researcher;Python+for+Data+Science;Machine+Learning+Research;Optimization+Research
 ---
 ## 👨‍💻 About Me
 

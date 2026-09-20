@@ -7,13 +7,13 @@
 </p>
 
 ---
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 Research-oriented Data Scientist and AI Researcher with a background in Computer Engineering and Control Systems. I work with Python, Data Analysis, Machine Learning, Time-Series Forecasting, and Optimization, with a focus on turning data into meaningful insights and developing data-driven solutions.
 
 My research interests include Sustainable AI, Environmental Data Science, CO₂ emissions analysis and prediction, and optimization-based intelligent systems. I use GitHub to document data analysis projects, research experiments, predictive modeling, and practical implementations in AI, Data Science, and Optimization.
 
-🔬 Areas of Interest
+### 🔬 Areas of Interest
 
 - 📊 Data Analysis & Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Preprocessing

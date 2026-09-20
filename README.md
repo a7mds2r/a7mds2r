@@ -1,83 +1,120 @@
-mode: auto
-portfolio & curriculum vitae — updated 2026
-Ahmed El-Sayed Saqr
-Data scientist and optimization researcher, working where forecasting meets decision-making.
+<h1 align="center">Hello there 👋 I'm Ahmed El-Sayed Saqr</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Vibe+Coding;Python+Devolper" alt="Typing SVG" />
 
-I build data science and machine learning systems end to end — from raw data and time-series forecasting to metaheuristic optimization and measurable, defensible results. My core specialty is optimization (metaheuristics such as Greylag Goose Optimization); I apply it across whatever problem is in front of me, not one fixed domain.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=a7mds2r&color=00C2FF&style=flat-square&label=👁️+PROFILE+VIEWS" />
+</p>
 
-a7mdsgqr@gmail.com
-+20 102 514 6285
-LinkedIn
-Google Scholar
-GitHub
-El Mansoura, Egypt
-01
-What I work on
-Open to a range of data science and AI work — this list is representative, not exhaustive.
+---
 
-Data Science
-Machine Learning
-Metaheuristic Optimization
-Time-Series Forecasting
-Data Analysis & EDA
-Scientific Research & Publication
-Applied Deep Learning (LSTM)
-Python Engineering
-02
-Experience
-Laboratory Engineer
-Oct 2022 – Present
-Delta Higher Institute for Engineering and Technology · Talkha, Egypt · On-site, full-time
-Support lab-based research and technical training in data science and machine learning; assist students with hands-on projects; contribute to technical reports and research documentation.
+## 👨‍💻 About Me
 
-03
-Education
-M.Sc., Computer and Control Systems Engineering
-Mansoura University
-Thesis: “CO2 Emissions Forecasting Using Time Series Analysis and Metaheuristic Optimization for Environmental Sustainability,” using hybrid deep learning architectures (including LSTM) for emissions forecasting. Currently pursuing further research toward a Ph.D.
+Data Scientist passionate about transforming raw data into actionable insights and building intelligent systems that support decision-making.
 
-04
-Publications
-Enhancing CO2 Emissions Prediction for Electric Vehicles Using Greylag Goose Optimization and Machine Learning
-Scientific Reports, vol. 15, Art. 16612 · 2025 · with M. S. Saraya & E. M. El-Kenawy · doi.org/10.1038/s41598-025-99472-0
-Used GGO to optimize an MLP predictor, benchmarked against Decision Tree, KNN, Random Forest and SVR, and against GWO, PSO, GA and WOA as optimizers; evaluated with MSE, RMSE, MAE, R², r, RRMSE, NSE and WI, with ANOVA, t-tests and one-at-a-time sensitivity analysis.
+### 🔬 Areas of Interest
 
-CO2 Emissions Forecasting Using Time Series Analysis and Metaheuristic Optimization for Environmental Sustainability
-Journal of Artificial Intelligence and Metaheuristics, vol. 7, no. 2, pp. 32–38 · 2024 · with E. M. El-Kenawy & M. S. Saraya · doi.org/10.54216/JAIM.070203
-05
-Selected projects
-EQCAM-Opt remove
-Multi-objective optimization framework for more efficient, carbon-aware AI infrastructure.
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🐍 Python Development
+- 🗄️ SQL & Database Design
+- 📉 Data Visualization
+- 💡 Business Intelligence
 
-Fuel Consumption & CO2 Emissions Prediction remove
-End-to-end pipeline: data cleaning, EDA, feature engineering, modeling, and emissions prediction.
+---
 
-E-Commerce Data Analysis remove
-Analytics workflow combining SQL, Python and dashboard-ready insights from transactional data.
+### 🛠️ Tools & Technologies
 
-More on github.com/a7mds2r — portfolio grows as new work ships, across whatever domain the project calls for.
+<p align="center">
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://jupyter.org"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
+</p>
 
-edit mode — only you see this
-Add project
-06
-Toolbox
-languages & data
-Python · SQL · Pandas · NumPy
+### 📚 Libraries
 
-modeling
-Scikit-learn · LSTM & neural nets · model evaluation
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+</p>
 
-optimization
-Metaheuristics (e.g. GGO, GWO, PSO, GA, WOA)
+> 🚧 *Currently learning: TensorFlow, PyTorch & Keras*
 
-visualization
-Matplotlib · Seaborn · Plotly
+---
 
-tooling
-Jupyter · Git & GitHub · VS Code
+### 📈 Data Science Workflow
 
-research
-Statistical testing · sensitivity analysis · scientific writing
+| 📊 01. Ingestion | 🧹 02. Preprocessing | 🔍 03. Exploration | 🤖 04. Modeling | 📉 05. Evaluation | 💡 06. Deployment |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **SQL** <br> `Data Fetching` | **Data Cleaning** <br> `Pandas / Sklearn` | **EDA** <br> `Statistical Analysis` | **Machine Learning** <br> `Time-Series / DL` | **Visualization** <br> `Matplotlib / Seaborn` | **Insights** <br> `Actionable Decisions` |
 
-Ahmed El-Sayed Saqr · El Mansoura, Egypt
-Get in touch
+---
+
+## 🚀 Core Skills
+
+- ✅ Data Cleaning & Preprocessing
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Machine Learning
+- ✅ Time Series Forecasting
+- ✅ SQL Analytics
+- ✅ Data Visualization
+- ✅ Business Intelligence
+- ✅ Statistical Analysis
+- ✅ Feature Engineering
+
+### Domains
+
+- Sustainability Analytics
+- Forecasting Systems
+- Data Science
+- Business Intelligence
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/a7mds2r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/a7mds2r"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/201025146285"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:a7mdsgqr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:a7mdsgqr@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  💬 Ask me about <strong>Data Analysis</strong> · <strong>Data Science</strong> · <strong>AI Modeling</strong>
+</p>
+
+---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- كارت الإحصائيات الأساسية (الذي يعمل بنجاح) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a7mds2r&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ahmad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- كارت تتابع النشاط المحدث والمضمون 100% -->
+  <img src="https://streak-stats.demolab.com/?user=a7mds2r&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Turning Data Into Decisions ✨</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my GitHub Profile 🙏
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=80&section=footer" width="100%" />
+</p>
